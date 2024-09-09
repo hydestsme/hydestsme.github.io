@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hydestsme.github.io/sitemap.html.gz
+Sitemap: https://hydestsme.github.io/app/sitemap.html.gz
+Sitemap: https://hydestsme.github.io/assets/sitemap.html.gz
+Sitemap: https://hydestsme.github.io/css/sitemap.html.gz
+Sitemap: https://hydestsme.github.io/includes/sitemap.html.gz
+Sitemap: https://hydestsme.github.io/item/sitemap.html.gz
+Sitemap: https://hydestsme.github.io/src/sitemap.html.gz
